@@ -1,0 +1,8 @@
+{
+  "name": "ssx/what-is-my-ip",
+  "version": "0.0.1",
+  "bin": "./index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
